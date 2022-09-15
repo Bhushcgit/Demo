@@ -11,3 +11,5 @@ v2.0.5 Thursday 15 September 2022 04:18:44 PM IST
 v2.0.4 Thursday 15 September 2022 05:11:02 PM IST
 v2.0.9 Thursday 15 September 2022 05:14:23 PM IST
 v2.1.0 Thursday 15 September 2022 05:48:02 PM IST
+v1.0.0 Thursday 15 September 2022 05:52:04 PM IST
+v1.0.0 Thursday 15 September 2022 05:52:23 PM IST

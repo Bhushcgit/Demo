@@ -17,7 +17,7 @@ stages
 		{
 	//git credentialsId: 'github-login-vari', url: 'https://github.com/Bhushcgit/Demo.git'
 	// git 'https://github.com/shazforiot/How-to-Push-docker-image-to-Docker-Hub-using-Jenkins-Pipeline.git'
-			git 'https://github.com/Bhushcgit/Demo.git'
+		//	git 'https://github.com/Bhushcgit/Demo.git'
 		
 		sh 'echo $DOCKERHUB_CREDENTIALS '
 		}
